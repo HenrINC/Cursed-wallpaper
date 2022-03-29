@@ -1,2 +1,2 @@
 # Cursed-wallpaper
-Redit'ui has changed, this programm is no longer up to date
+Redit's ui has changed, this programm is no longer up to date
